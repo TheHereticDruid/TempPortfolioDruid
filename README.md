@@ -2,6 +2,7 @@
 Temporary Portfolio page for Druid, will ideally replace with github page soon
 
 # Writing
+## Academic
 A list of writing samples, if unpublished, only a sample is listed, please ask for a link
 ### A tiny review of dating apps
 This is a small essay reviewing location-based dating apps and its users, and the effects on the mental state of the users. I intend to do a very short literature review, and write more about my own experience with the apps as well.
@@ -19,3 +20,24 @@ Unpublished
 I discuss a field visit to NGMA bangalore, and some literature that connects to what I observed. . I discuss a few aspects of museums, power and subjectivities in four parts:  history and logics of museums, nationalism and the subjectivities engendered, discipline and self-discipline, and possibilities of dissent. In each section, I try to compare and contrast the literature with my observations from my field visit. I then conclude with a small section on further work.
 
 Unpublished
+
+## Non-Academic
+These will only have a title until publication
+
+### A prayer in nine voices
+Unpublished
+
+### Untitled submission, theme: queer loneliness
+Unpublished
+
+# Miscellaneous
+Links to projects related to data or GIS or the like
+
+### Behance
+https://www.behance.net/akshayrajendr2
+
+### GIS Assignment
+https://drive.google.com/file/d/1E31ZmCsm41Pj8u9fA_BiU_0G7_XfwSMj/view?usp=drive_link
+
+### UIL Assignment: Hazard and Vulnerability maps for Flood, Drought, Heat in India
+Please ask for the link for this, as currently the maps are missing some data that disfigure the map
