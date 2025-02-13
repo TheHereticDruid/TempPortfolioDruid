@@ -4,10 +4,9 @@ Temporary Portfolio page for Druid, will ideally replace with github page soon
 # Writing
 ## Academic
 A list of writing samples, if unpublished, only a sample is listed, please ask for a link
-### A tiny review of dating apps
-This is a small essay reviewing location-based dating apps and its users, and the effects on the mental state of the users. I intend to do a very short literature review, and write more about my own experience with the apps as well.
-
-For a while now, dating and finding people to build a relationship, has moved to the digital arena. While digitally aided dating has had some history since 1959, most of the early experiments were more to match paying users with each other via computer. This evolved into internet based apps, which in 2006 saw the breakthrough of introducing location-based matching. For masc-coded queer people today, the to-go app is of course Grindr, which is an app that was released in 2009, and mainly focuses on casual meetings with strangers close to a user. Grindr itself is a very popular app, being in the West the most popular among its target demographic, and one of the most overall. I have myself used the app (and others), and have found it very wanting. For this essay I try to understand what people expect on these apps, how they feel about the apps, and what this might tell us about what kinds of subjects these apps are meant to generate.
+### Dating Apps And Queer Experience
+This is a small essay reviewing location-based dating apps and its users, and the effects on the mental state of the users. I do a very short literature review, and write more about my own experience with the apps as well. First I deal with the existence (and lack of) of physical spaces for queerness in the city, and the migration to digital spaces. Then I ask who the apps are for, and what kinds of identities and behaviours are implicitly disincentivized for their use. Finally, I suggest that the design and use of these apps influences the behaviour of the subjects using them.
+Keywords: Dating Apps, Physical and Digital Spaces, Digital Marginalization, Online Behaviour, Digital Queer Experience
 
 Unpublished
 
@@ -41,3 +40,12 @@ https://drive.google.com/file/d/1E31ZmCsm41Pj8u9fA_BiU_0G7_XfwSMj/view?usp=drive
 
 ### UIL Assignment: Hazard and Vulnerability maps for Flood, Drought, Heat in India
 Please ask for the link for this, as currently the maps are missing some data that disfigure the map
+
+### A currently untitled board game to represent aspects of life described in the Kama Sutra
+Please note that I own none of the images, they are all taken from the internet, and as such copyright is retained by the original creators. I am using them currently as placeholder only, for demonstration of hte game.
+Working Document: https://www.canva.com/design/DAGeOk4J8-4/sjQoR0aiXImdiwZtEewrQg/edit
+Print Schedule: https://www.canva.com/design/DAGeOk4J8-4/sjQoR0aiXImdiwZtEewrQg/edit
+Will add a rules document as soon as I can, this is WIP
+
+### Programming
+This Github! Please feel free to visit my other repositories for my small projects.
