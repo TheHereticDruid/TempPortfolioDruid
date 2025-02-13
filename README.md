@@ -14,12 +14,12 @@ Unpublished
 ### Aspects of Surrogacy in India
 In 2021, at the end of a long process of discussion on the topic, the Indian government decided (and managed after some years of administrative confusion) to ban commercial surrogacy in India. Before then, from 2012, Surrogacy was made legal and minimally regulated. But with the passing of two bills, Assisted Reproductive Technology (Regulation) Act of 2021 and Surrogacy Regulation Act of 2021, commercial surrogacy has been made illegal, and the only form of gestational surrogacy now legally allowed is “altruistic”, that is to say essentially for free. I argue here that on one hand, this makes it harder to manage the exploitation of women, and on the other hand it further informalizes gestational workers, leaving them in very precarious situations. I continue with recommendations for continuing to see gestational workers as workers, and to improve working conditions for them, and I end with some response to moral arguments in this field.
 
-Unpublished
+Unpublished, needs editing
 
 ### On Museums, Power, Discipline, and Subjects - A review and partial case study based in NGMA, Bangalore
 I discuss a field visit to NGMA bangalore, and some literature that connects to what I observed. . I discuss a few aspects of museums, power and subjectivities in four parts:  history and logics of museums, nationalism and the subjectivities engendered, discipline and self-discipline, and possibilities of dissent. In each section, I try to compare and contrast the literature with my observations from my field visit. I then conclude with a small section on further work.
 
-Unpublished
+Unpublished, needs editing
 
 ## Non-Academic
 These will only have a title until publication
