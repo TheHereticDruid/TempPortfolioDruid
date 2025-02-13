@@ -6,6 +6,7 @@ Temporary Portfolio page for Druid, will ideally replace with github page soon
 A list of writing samples, if unpublished, only a sample is listed, please ask for a link
 ### Dating Apps And Queer Experience
 This is a small essay reviewing location-based dating apps and its users, and the effects on the mental state of the users. I do a very short literature review, and write more about my own experience with the apps as well. First I deal with the existence (and lack of) of physical spaces for queerness in the city, and the migration to digital spaces. Then I ask who the apps are for, and what kinds of identities and behaviours are implicitly disincentivized for their use. Finally, I suggest that the design and use of these apps influences the behaviour of the subjects using them.
+
 Keywords: Dating Apps, Physical and Digital Spaces, Digital Marginalization, Online Behaviour, Digital Queer Experience
 
 Unpublished
@@ -43,8 +44,11 @@ Please ask for the link for this, as currently the maps are missing some data th
 
 ### A currently untitled board game to represent aspects of life described in the Kama Sutra
 Please note that I own none of the images, they are all taken from the internet, and as such copyright is retained by the original creators. I am using them currently as placeholder only, for demonstration of hte game.
+
 Working Document: https://www.canva.com/design/DAGeOk4J8-4/sjQoR0aiXImdiwZtEewrQg/edit
+
 Print Schedule: https://www.canva.com/design/DAGeOk4J8-4/sjQoR0aiXImdiwZtEewrQg/edit
+
 Will add a rules document as soon as I can, this is WIP
 
 ### Programming
