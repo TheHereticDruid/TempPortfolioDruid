@@ -25,15 +25,20 @@ Unpublished
 These will only have a title until publication
 
 ### A prayer in nine voices
+A small piece (500 words), on dealing with heartbreak
+
 Unpublished
 
 ### Untitled submission, theme: queer loneliness
+A 2000 word piece on personal experiences of loneliness, with the intervention of certain theoretical concepts
+
 Unpublished
 
 # Miscellaneous
 Links to projects related to data or GIS or the like
 
 ### Behance
+Very much WIP!
 https://www.behance.net/akshayrajendr2
 
 ### GIS Assignment
