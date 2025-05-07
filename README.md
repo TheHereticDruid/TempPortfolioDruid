@@ -9,7 +9,7 @@ This is a small essay reviewing location-based dating apps and its users, and th
 
 Keywords: Dating Apps, Physical and Digital Spaces, Digital Marginalization, Online Behaviour, Digital Queer Experience
 
-Unpublished
+Under consideration for publication at Urban Kaleidoscopes, a magazine by People’s Resource Center
 
 ### Aspects of Surrogacy in India
 In 2021, at the end of a long process of discussion on the topic, the Indian government decided (and managed after some years of administrative confusion) to ban commercial surrogacy in India. Before then, from 2012, Surrogacy was made legal and minimally regulated. But with the passing of two bills, Assisted Reproductive Technology (Regulation) Act of 2021 and Surrogacy Regulation Act of 2021, commercial surrogacy has been made illegal, and the only form of gestational surrogacy now legally allowed is “altruistic”, that is to say essentially for free. I argue here that on one hand, this makes it harder to manage the exploitation of women, and on the other hand it further informalizes gestational workers, leaving them in very precarious situations. I continue with recommendations for continuing to see gestational workers as workers, and to improve working conditions for them, and I end with some response to moral arguments in this field.
